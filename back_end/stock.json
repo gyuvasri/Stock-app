@@ -1,0 +1,8 @@
+[
+    {"id": "AAPL", "openPrice": 150.25, "refreshInterval": 3, "currentPrice": 151.2},
+    {"id": "GOOGL", "openPrice": 2750.0, "refreshInterval": 2, "currentPrice": 2749.5},
+    {"id": "MSFT", "openPrice": 300.0, "refreshInterval": 5, "currentPrice": 301.8},
+    {"id": "AMZN", "openPrice": 3500.0, "refreshInterval": 4, "currentPrice": 3498.7},
+    {"id": "TSLA", "openPrice": 800.0, "refreshInterval": 1, "currentPrice": 799.2}
+]
+  
